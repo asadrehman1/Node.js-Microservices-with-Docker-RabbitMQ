@@ -42,6 +42,6 @@ docker-compose.yml
 Clone the repository:
 
 ```bash
-git clone https://github.com/dev-ai/nodejs-microservices-task-app.git
+git clone https://github.com/asadrehman1/Node.js-Microservices-with-Docker-RabbitMQ.git
 docker-compose up --build
 ```
